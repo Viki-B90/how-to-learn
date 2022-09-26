@@ -181,7 +181,7 @@
 .table__heading {
   margin: 0;
   line-height: 1.15;
-  font-size: 24x;
+  font-size: 24px;
   font-weight: 600;
 }
 
@@ -382,9 +382,9 @@
   justify-content: flex-start;
 }
 
-/* заголовок О Практикуме/ Соцсети ФЛЕКС РЕВЬЮ*/
+/* заголовок О Практикуме/ Соцсети */
 .footer__column-heading {
-  align-items: flex-start; 
+  align-items: flex-start;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
@@ -395,7 +395,7 @@
 /* иконки Соцсети */
 .footer__social-icon {
   width: 16px;
-  height: 16px; 
+  height: 16px;
   background-size: 16px 16px;
   margin-right: 10px;
 }
