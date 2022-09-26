@@ -240,7 +240,7 @@
 }
 
 .kaufman__triangle {
-  background-image: url(/Users/suvor/dev/how-to-learn/images/kaufman-triangle.svg);
+  background-image: url(./kaufman-triangle.svg);
   position: absolute;
   right: -210px;
   top: 0;
